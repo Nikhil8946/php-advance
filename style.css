@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.card {
+  width: 32%;
+}
